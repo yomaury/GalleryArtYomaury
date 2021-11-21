@@ -1,2 +1,1 @@
 # GalleryArtYomaury
-GalleryArtYomaury Demostration
